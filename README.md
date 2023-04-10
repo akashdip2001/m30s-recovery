@@ -4,3 +4,4 @@
 
 # [how to root m30s](https://magiskapp.com/root-samsung-galaxy-m30s-using-magisk/)
 # [all Teligram files](https://t.me/m30sroot)
+# [all GitHub files](https://github.com/akashdip2001/m30s-recovery)
